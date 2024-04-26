@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\Bureau\Design_patterns\Design patterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Lenovo\OneDrive\Bureau\Design_patterns\Design patterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\Lenovo\OneDrive\Bureau\Design_patterns\Design patterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Lenovo\OneDrive\Bureau\Design_patterns\Design patterns\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Bureau\Design_patterns\Design patterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Bureau\Design_patterns\Design patterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\Lenovo\OneDrive\Bureau\Design_patterns\Design patterns\Singleton\obj\Debug\Singleton.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adapter", "Design patterns\adapter.csproj", "{2589A606-B155-494E-8737-EC61616DA3A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{976ADCEE-9610-44FA-BEE0-082092DBC5FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stratégie", "stratégie\stratégie.csproj", "{55DE87C9-5D1F-4A05-B108-D6D526454E6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2589A606-B155-494E-8737-EC61616DA3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2589A606-B155-494E-8737-EC61616DA3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2589A606-B155-494E-8737-EC61616DA3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2589A606-B155-494E-8737-EC61616DA3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976ADCEE-9610-44FA-BEE0-082092DBC5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976ADCEE-9610-44FA-BEE0-082092DBC5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976ADCEE-9610-44FA-BEE0-082092DBC5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976ADCEE-9610-44FA-BEE0-082092DBC5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55DE87C9-5D1F-4A05-B108-D6D526454E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DE87C9-5D1F-4A05-B108-D6D526454E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DE87C9-5D1F-4A05-B108-D6D526454E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DE87C9-5D1F-4A05-B108-D6D526454E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF2FA9F-9487-415D-9B8B-D133BDF7449C}
+	EndGlobalSection
+EndGlobal
